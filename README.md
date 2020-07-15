@@ -24,4 +24,5 @@ Talk to me about
 
 ![Pupubird's github stats](https://github-readme-stats.vercel.app/api?username=pupubird&hide=["issues"]&show_icons=true)
 
-```⭐️ Template From [harshkumarkhatri](https://github.com/harshkumarkhatri)```
+### 💳 Credit
+⭐️ Template From [harshkumarkhatri](https://github.com/harshkumarkhatri) (Thanks!)
