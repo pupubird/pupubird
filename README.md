@@ -12,7 +12,7 @@ Hey! I am Rain, a web developer based in Malaysia, working under [Map72](https:/
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **Sveltejs and Reactjs**
-- Backend development using **Expressjs, Strapi, Django, GeoDjango**
+- Backend development using **Expressjs, Strapi, Django, GeoDjango, Django Rest Framework**
 - Making for **Indoor mapping navigation app**
 - Robust full-stack system design implementation
 - Mobile application development using **Flutter**
