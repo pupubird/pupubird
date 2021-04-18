@@ -7,12 +7,12 @@
 
 Hey! I am Rain, a web developer based in Malaysia, working under [Map72](https://github.com/map711) as a software developer🙌. I enjoy coffee, startup, coding and community, do feel free to reach out to me for any enquiry ☕!
 ## 👯 Communities
-* AWS Student Ambassador
-* Head of Marketing @ [Sunway Tech Club](https://github.com/sunwaytechclub)
+* AWS Student Ambassador (2020)
+* Head of Marketing @ [Sunway Tech Club](https://github.com/sunwaytechclub) (2020)
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **Sveltejs and Reactjs**
-- Backend development using **Expressjs, Strapi, Django**
+- Backend development using **Expressjs, Strapi, Django, GeoDjango**
 - Making for **Indoor mapping navigation app**
 - Robust full-stack system design implementation
 - Mobile application development using **Flutter**
