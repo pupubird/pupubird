@@ -5,19 +5,21 @@
 [![Twitter Badge](https://img.shields.io/badge/-@pupubird1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pupubird1)](https://twitter.com/pupubird1) [![Linkedin Badge](https://img.shields.io/badge/-rainchai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rain-chai-48370318a/)](https://www.linkedin.com/in/rain-chai-48370318a/) [![Medium Badge](https://img.shields.io/badge/-@rainchai4240-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rainchai4240)](https://medium.com/@rainchai4240)
 [![Gmail Badge](https://img.shields.io/badge/-rainchai4240@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rainchai4240@gmail.com)](mailto:rainchai4240@gmail.com)
 
-Hey! I am Rain, a web developer based in Malaysia, working under [Map72](https://github.com/map711) as a software developer🙌. I enjoy coffee, startup, coding and community, do feel free to reach out to me for any enquiry ☕!
+Hey! I am Rain, a full-stack software engineer based in Malaysia, working under [Map72](https://github.com/map711) 🙌. I enjoy coffee, startup, coding and community, do feel free to reach out to me for any enquiry ☕!
 ## 👯 Communities
 * AWS Student Ambassador (2020)
 * Head of Marketing @ [Sunway Tech Club](https://github.com/sunwaytechclub) (2020)
+* Cadet @ 42 Kuala Lumpur
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Sveltejs and Reactjs**
+- Front-end development using **Sveltejs, Reactjs**
 - Backend development using **Expressjs, Strapi, Django, GeoDjango, Django Rest Framework**
-- Making for **Indoor mapping navigation app**
+- DevOps stuff **Docker, Docker Compose, Nginx**
+- Making for **Indoor mapping navigation app and more interesting projects!**
 - Robust full-stack system design implementation
-- Mobile application development using **Flutter**
-- Creating scalable cloud architecture using **AWS Cloud**
-- Solving Data structure and algorithm questions in **Python**
+- Mobile application development using **Flutter, React Native**
+- Creating scalable cloud architecture using **AWS Cloud, GCP and more!**
+- Solving Data structure and algorithm questions in **Python, JavaScript and C**
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://pupubird.com)
