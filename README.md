@@ -20,7 +20,9 @@ Talk to me about
 - Mobile application development using **Flutter, React Native**
 - Creating scalable cloud architecture using **AWS Cloud, GCP and more!**
 - Solving Data structure and algorithm questions in **Python, JavaScript and C**
-## Hello World!! 🤔
+- Trading? **MQL4, MQL5, Binance API etc!**
+- All the stuff about automation!
+## Hello World! 🤔
 - 💬 Ask me about anything and everything.
 - 🎯 Portfolio site: [Portfolio](https://pupubird.com)
 
