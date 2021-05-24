@@ -16,7 +16,7 @@ Talk to me about
 - Backend development using **Expressjs, Strapi, Django, GeoDjango, Django Rest Framework**
 - DevOps stuff **Docker, Docker Compose, Nginx**
 - Making for **Indoor mapping navigation app and more interesting projects!**
-- Robust full-stack system design implementation
+- Robust full-stack system design implementation with **Redis Message Queue, PostGIS etc**
 - Mobile application development using **Flutter, React Native**
 - Creating scalable cloud architecture using **AWS Cloud, GCP and more!**
 - Solving Data structure and algorithm questions in **Python, JavaScript and C**
