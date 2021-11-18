@@ -24,7 +24,7 @@ Talk to me about
 - All the stuff about automation!
 ## Hello World! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://pupubird.com)
+- 🎯 Portfolio site: [Portfolio](https://rainchai.me)
 
 ![Pupubird's github stats](https://github-readme-stats.vercel.app/api?username=pupubird&hide=["issues"]&show_icons=true)
 
