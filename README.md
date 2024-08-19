@@ -12,10 +12,9 @@ Hey! I am Rain, a full-stack software engineer based in Malaysia🙌. I enjoy co
 * Cadet @ 42 Kuala Lumpur
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **Sveltejs, Reactjs**
-- Backend development using **Expressjs, Strapi, Django, GeoDjango, Django Rest Framework**
+- Front-end web development using **SvelteKit, NextJS**
+- Backend development using **Expressjs, Strapi, Django, GeoDjango, Django Rest Framework, NestJS, MeteorJS**
 - DevOps stuff **Docker, Docker Compose, Nginx**
-- Making for **Indoor mapping navigation app and more interesting projects!**
 - Robust full-stack system design implementation with **Redis Message Queue, PostGIS, Serverless Event-Driven Architecture, etc**
 - Mobile application development using **Flutter, React Native**
 - Creating scalable cloud architecture using **AWS Cloud, GCP and more!**
@@ -24,7 +23,6 @@ Talk to me about
 - All the stuff about automation!
 ## Hello World! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://rainchai.me)
 
 ![Pupubird's github stats](https://github-readme-stats.vercel.app/api?username=pupubird&hide=["issues"]&show_icons=true)
 
