@@ -18,7 +18,7 @@ Talk to me about
 - Robust full-stack system design implementation with **Redis Message Queue, PostGIS, Serverless Event-Driven Architecture, etc**
 - Mobile application development using **Flutter, React Native**
 - Creating scalable cloud architecture using **AWS Cloud, GCP and more!**
-- Solving Data structure and algorithm questions in **Python, JavaScript and C**
+- Solving Data structure and algorithm questions in **Python, TypeScript and C**
 - Trading? **MQL4, MQL5, Binance API etc!**
 - All the stuff about automation!
 ## Hello World! 🤔
